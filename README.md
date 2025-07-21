@@ -48,9 +48,11 @@ If you're using a virtual environment:
 pip install -r requirements.txt
 Or manually install:
 pip install streamlit scikit-learn pandas seaborn matplotlib
-3. Run the App
+
+### 3. Run the App
 streamlit run app.py
-🧾 Dataset Info
+
+### 🧾 Dataset Info
 📄 File: insurance.csv
 Features include:
 Age
@@ -60,14 +62,17 @@ Smoker (yes/no)
 Region
 Sex
 Target: charges (medical insurance cost)
-📷 Preview
+
+### 📷 Preview
 ✨ Future Improvements
 Add prediction form for user input
 Include feature importance visualization
 Add GridSearchCV for optimal hyperparameter tuning
-🙋‍♂️ Author
+
+### 🙋‍♂️ Author
 Navneet Shukla
 📧 LinkedIn
 🔗 GitHub
-📄 License
+
+### 📄 License
 This project is licensed under the MIT License.
