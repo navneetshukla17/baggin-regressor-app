@@ -1,8 +1,7 @@
-# 💊 Bagging Regressor App – Medical Cost Prediction
+# 💊 Bagging Regressor App – Medical Cost Prediction  🔗 **[Live Demo](https://readmemd-adgrkc7vp5hhrxszthjudn.streamlit.app/)**
+
 
 This Streamlit web app demonstrates the use of **Bagging Regression** with different base estimators to predict **medical insurance charges** using the **Medical Cost Personal Dataset**. It allows users to interactively explore how different parameters affect model performance.
-
-🔗 **[Live Demo](https://readmemd-adgrkc7vp5hhrxszthjudn.streamlit.app/)**
 
 ---
 
